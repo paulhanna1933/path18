@@ -1,0 +1,52 @@
+body {
+  background-color: #f9f9f9;
+}
+
+.center-btn {
+   text-align: center;
+ }
+
+ .center-btn a {
+   font-size: 20px;
+ }
+
+ .logo {
+   display: block;
+   margin: 0 auto;
+ }
+
+ .logo-details {
+   display: block;
+   margin: 0 auto;
+   padding-bottom: 20px;
+ }
+
+ h5 {
+   text-align: center;
+   padding-bottom: 50px;
+ }
+
+ .card-image {
+   padding-top: 20px;
+ }
+
+ p {
+   font-size: 15px;
+ }
+
+.fa-heart {
+  color: red;
+  float: right;
+}
+
+.like-dislike {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+
+.fa-times-circle {
+  padding-bottom: 20px;
+  color: black;
+
+}
